@@ -13,7 +13,7 @@ The following screenshot below shows the web application's appearance and functi
 
 ## Link
 
-Link to refractored website: https://github.com/br1ce23/code-refactor1.git
+Link to refractored website: https://br1ce23.github.io/code-refactor1/
 
 
 ## License
